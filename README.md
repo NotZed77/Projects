@@ -1,5 +1,5 @@
 # Projects
-A collection of beginner-friendly Java console applications built using basic programming concepts.
+A collection of beginner-friendly Java console applications built using basic programming concepts. All code is well-commented to help readers understand the logic step by step.
 
 📂 Projects
 
